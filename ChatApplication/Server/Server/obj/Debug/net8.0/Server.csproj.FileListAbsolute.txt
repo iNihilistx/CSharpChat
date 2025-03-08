@@ -1,0 +1,14 @@
+D:\c#\projects\ChatApplication\Server\Server\bin\Debug\net8.0\Server.exe
+D:\c#\projects\ChatApplication\Server\Server\bin\Debug\net8.0\Server.deps.json
+D:\c#\projects\ChatApplication\Server\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+D:\c#\projects\ChatApplication\Server\Server\bin\Debug\net8.0\Server.dll
+D:\c#\projects\ChatApplication\Server\Server\bin\Debug\net8.0\Server.pdb
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\Server.dll
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\refint\Server.dll
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\Server.pdb
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+D:\c#\projects\ChatApplication\Server\Server\obj\Debug\net8.0\ref\Server.dll

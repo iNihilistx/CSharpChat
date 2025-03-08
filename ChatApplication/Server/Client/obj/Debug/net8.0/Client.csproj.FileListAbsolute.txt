@@ -1,0 +1,14 @@
+D:\c#\projects\ChatApplication\Server\Client\bin\Debug\net8.0\Client.exe
+D:\c#\projects\ChatApplication\Server\Client\bin\Debug\net8.0\Client.deps.json
+D:\c#\projects\ChatApplication\Server\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\c#\projects\ChatApplication\Server\Client\bin\Debug\net8.0\Client.dll
+D:\c#\projects\ChatApplication\Server\Client\bin\Debug\net8.0\Client.pdb
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\Client.dll
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\refint\Client.dll
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\Client.pdb
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\c#\projects\ChatApplication\Server\Client\obj\Debug\net8.0\ref\Client.dll
